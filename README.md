@@ -1,1 +1,1 @@
-# hubot renkei
+# hubot edi scripts ok

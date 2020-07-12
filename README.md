@@ -1,1 +1,1 @@
-# hubot test
+# hubot renkei
